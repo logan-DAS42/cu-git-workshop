@@ -16,13 +16,13 @@
 - Under my Repositories, go to the one called _'cu-git-workshop'_.
 - Hang tight, this is where we will start the demo from.
 
----
+
 ## Repl Setup
 - `git clone <REPO URL>`
 - `git config --global user.email "you@example.com"`
 - `git config --global user.name "Your Name"`
 
----
+
 ### Git CLI Commands
 - `clone` - creates copy, or "clone", of a remote repo on a local machine
 - `branch` - displays the current available branches and indicate the branch that a local repo is on
