@@ -1,5 +1,5 @@
 # Welcome to the DAS42 GitHub Workshop!
----
+
 ## Quick Setup
 - In your web browser, open two new tabs.
 - In the first tab, go to [github.com](github.com).
