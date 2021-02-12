@@ -2,10 +2,9 @@
 ---
 ## Quick Setup
 - In your web browser, open two new tabs.
-- In the first tab, go to [github.com](github.com)
-- In the second tab, go to [repl.it/@LoganGuerry/cu-git-workshop](https://repl.it/@LoganGuerry/cu-git-workshop)
-	- Click the "Fork" button
-	- If prompted to create an account, do so. I suggest using the Goggle SSO method with you CU email.
+- In the first tab, go to [github.com](github.com).
+- In the second tab, go to [repl.it](https://repl.it/) and create an account.
+	- I suggest using the Goggle SSO method with you CU email.
 
 ### If you don't have a GitHub account...
 - Create an account by clicking the `Sign Up` button in the top right corner of the landing page.
